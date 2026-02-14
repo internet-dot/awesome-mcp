@@ -182,6 +182,7 @@ categories:
       - url: https://github.com/Michael98671/agentbay
       - url: https://github.com/whataboutyou-ai/eunomia-MCP-server
       - url: https://github.com/StitchAI/stitch-ai-mcp
+        description: Decentralized Knowledge Hub for AI
   - name: Aggregators & Gateways
     subcategories:
       - name: Aggregators
@@ -291,10 +292,9 @@ categories:
           - url: https://github.com/imprvhub/mcp-browser-agent
             description: MCP server for autonomous browser automation with Claude
           - url: https://github.com/nottelabs/notte
+            description: Framework to build web agents
           - url: https://github.com/Skyvern-AI/skyvern
           - url: https://github.com/desplega-ai/qa-use
-          - url: https://github.com/bytedance/UI-TARS-desktop
-            description: Multimodal AI agent stack for UI automation
           - url: https://github.com/getrupt/ashra-mcp
       - name: Browser Tools
         repos:
@@ -506,6 +506,7 @@ categories:
           - url: https://github.com/Azure-Samples/mcp
             description: Samples and resources for Azure MCP
           - url: https://github.com/call518/MCP-OpenStack-Ops
+            description: MCP server providing OpenStack project management
           - url: https://github.com/wangsqly0407/openstack-mcp-server
           - url: https://github.com/TencentCloudBase/CloudBase-AI-ToolKit
             description: Connect CloudBase to AI agents
@@ -622,6 +623,7 @@ categories:
           - url: https://github.com/Kashyap-AI-ML-Solutions/webex-messaging-mcp-server
           - url: https://github.com/wassengerhq/mcp-wassenger
           - url: https://github.com/pubnub/pubnub-mcp-server
+            description: PubNub Model Context Protocol Server
           - url: https://github.com/Tencent-RTC/mcp
           - url: https://github.com/netease-im/yunxin-mcp-server
           - url: https://github.com/kone-net/mcp_server_lark
@@ -1492,6 +1494,7 @@ categories:
           - url: https://github.com/QuentinCody/github-graphql-mcp-server
           - url: https://github.com/Tiberriver256/mcp-server-azure-devops
           - url: https://github.com/kurdin/github-repos-manager-mcp
+            description: GitHub Repos Manager MCP Server that enables your MCP client
           - url: https://github.com/puravparab/Gitingest-MCP
           - url: https://github.com/gitkraken/gk-cli
           - url: https://github.com/idosal/git-mcp
@@ -1553,6 +1556,7 @@ categories:
       - url: https://github.com/recursechat/mcp-server-apple-shortcuts
         description: Apple Shortcuts automation on macOS
       - url: https://github.com/FradSer/mcp-server-apple-events
+        description: Native integration with Apple Reminders and Calendar
   - name: File Systems & Storage
     repos:
       - url: https://github.com/8b-is/smart-tree
@@ -2033,12 +2037,8 @@ categories:
         description: OpenAI-compatible endpoint calling MCP tools
       - url: https://github.com/3choff/mcp-chatbot
         description: CLI chatbot with MCP integration demo
-      - url: https://github.com/zed-industries/zed
-        description: High-performance code editor with MCP support
       - url: https://github.com/firebase/genkit
         description: AI app framework for JavaScript and Go
-      - url: https://github.com/continuedev/continue
-        description: Open-source AI coding assistant with MCP support
       - url: https://github.com/Upsonic/Upsonic
       - url: https://github.com/EvalsOne/mcp-connect
         description: Cloud AI access to local Stdio MCP servers
@@ -2242,6 +2242,7 @@ categories:
             description: YouTube video transcript downloader
           - url: https://github.com/eat-pray-ai/yutu
           - url: https://github.com/TSavo/creatify-mcp
+            description: MCP server for AI video generation
           - url: https://github.com/kaltura/mcp-events
           - url: https://github.com/plainly-videos/mcp-server
   - name: Monitoring & Observability
@@ -2406,6 +2407,7 @@ categories:
             description: MCP server for Anki spaced repetition flashcards
           - url: https://github.com/rember/rember-mcp
           - url: https://github.com/spacholski1225/anki-connect-mcp
+            description: MCP implementation for Anki Web
           - url: https://github.com/ujisati/anki-mcp
           - url: https://github.com/scorzeth/anki-mcp-server
           - url: https://github.com/nietus/anki-mcp
@@ -2668,6 +2670,7 @@ categories:
           - url: https://github.com/szeider/mcp-dblp
             description: Access DBLP computer science bibliography
           - url: https://github.com/mochow13/google-scholar-mcp
+            description: MCP server for Google Scholar written in TypeScript
           - url: https://github.com/JackKuo666/medRxiv-MCP-Server
           - url: https://github.com/HzaCode/OneCite
             description: Parse and format academic references
