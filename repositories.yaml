@@ -1128,6 +1128,8 @@ categories:
         repos:
           - url: https://github.com/admica/FileScopeMCP
             description: Codebase dependency diagrams
+          - url: https://github.com/vitali87/code-graph-rag
+            description: Knowledge graph RAG for multi-language codebase analysis using Tree-sitter and Memgraph
           - url: https://github.com/ArchAI-Labs/fastmcp-sonarqube-metrics
           - url: https://github.com/bgauryy/octocode-mcp
             description: MCP server for semantic code search and context generation
