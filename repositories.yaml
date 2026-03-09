@@ -112,7 +112,7 @@ categories:
           - url: https://github.com/mattjoyce/mcp-persona-sessions
           - url: https://github.com/MWG-Logan/Central-Memory-MCP
           - url: https://github.com/hubertciebiada/context-crystallizer
-            description: Transform large repos into AI-consumable knowledge for agents
+            description: Large repos into AI-consumable knowledge for agents
           - url: https://github.com/mschultheiss83/context-processor
           - url: https://github.com/ginylil/context-templates
           - url: https://github.com/ssmirnovpro/extended-memory-mcp
@@ -141,7 +141,7 @@ categories:
           - url: https://github.com/pinecone-io/assistant-mcp
           - url: https://github.com/agentset-ai/mcp-server
           - url: https://github.com/nonatofabio/local_faiss_mcp
-            description: Local FAISS vector store MCP - semantic search for Claude/Copilot
+            description: Local FAISS MCP - semantic search for Claude/Copilot
           - url: https://github.com/GongRzhe/Langflow-DOC-QA-SERVER
           - url: https://github.com/dmayboroda/minima
           - url: https://github.com/Lspace-io/lspace-server
@@ -354,7 +354,7 @@ categories:
         description: CLI with secure execution and custom policies
       - url: https://github.com/OthmaneBlial/term_mcp_deepseek
       - url: https://github.com/ooples/mcp-console-automation
-        description: MCP server for AI-driven console automation and monitoring
+        description: MCP for AI-driven console automation and monitoring
       - url: https://github.com/sonirico/mcp-shell
         description: Secure, auditable shell commands for AI
       - url: https://github.com/tufantunc/ssh-mcp
@@ -1566,7 +1566,7 @@ categories:
         description: MCP server on Android TV with ADB
       - url: https://github.com/jeff-nasseri/mikrotik-mcp
       - url: https://github.com/LGDiMaggio/predictive-maintenance-mcp
-        description: AI-powered predictive maintenance and fault diagnosis via MCP
+        description: AI predictive maintenance and fault diagnosis via MCP
       - url: https://github.com/SpaceyKasey/TcpSocketMCP
       - url: https://github.com/nokia/mcp-redfish
       - url: https://github.com/recursechat/mcp-server-apple-shortcuts
@@ -1964,7 +1964,7 @@ categories:
       - url: https://github.com/QuentinCody/uniprot-mcp-server
       - url: https://github.com/QuentinCody/zincbind-mcp-server
       - url: https://github.com/cafferychen777/ChatSpatial
-        description: Spatial transcriptomics analysis via natural language (Python/R)
+        description: Spatial transcriptomics via natural language (Python/R)
   - name: LLM Bridges
     repos:
       - url: https://github.com/perplexityai/modelcontextprotocol
@@ -2023,7 +2023,7 @@ categories:
           - url: https://github.com/ipfind/ipfind-mcp-server
           - url: https://github.com/ipfred/aiwen-mcp-server-geoip
           - url: https://github.com/iplocate/mcp-server-iplocate
-            description: IP geolocation, network info, proxy detection via IPLocate.io
+            description: IP geolocation, proxy detection via IPLocate.io API
           - url: https://github.com/jackyang25/geolocation-mcp-server
       - name: Maps & Navigation
         repos:
@@ -2622,7 +2622,7 @@ categories:
     repos:
       - url: https://github.com/thinkchainai/agentinterviews_mcp
       - url: https://github.com/Pantheon-Security/notebooklm-mcp-secure
-        description: Secure NotebookLM MCP Server with 14 security layers
+        description: Secure NotebookLM MCP with 14 security layers
       - url: https://github.com/reuvenaor/israel-statistics-mcp
       - url: https://github.com/IO-Aerospace-software-engineering/mcp-server
       - url: https://github.com/SecretiveShell/MCP-wolfram-alpha
@@ -3101,7 +3101,7 @@ categories:
       - url: https://github.com/pab1it0/tripadvisor-mcp
         description: MCP server for Tripadvisor location data and reviews
       - url: https://github.com/Pradumnasaraf/aviationstack-mcp
-        description: MCP server for AviationStack API - real-time flight data
+        description: MCP for AviationStack API - real-time flight data
       - url: https://github.com/r-huijts/ns-mcp-server
         description: MCP server for Dutch Railways (NS) travel information
       - url: https://github.com/skedgo/tripgo-mcp-server
