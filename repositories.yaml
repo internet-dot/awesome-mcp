@@ -1947,6 +1947,8 @@ categories:
       - url: https://github.com/QuentinCody/rcsb-pdb-mcp-server
       - url: https://github.com/QuentinCody/uniprot-mcp-server
       - url: https://github.com/QuentinCody/zincbind-mcp-server
+      - url: https://github.com/cafferychen777/ChatSpatial
+        description: Spatial transcriptomics analysis with 60+ integrated methods via natural language (Python/R)
   - name: LLM Bridges
     repos:
       - url: https://github.com/perplexityai/modelcontextprotocol
