@@ -312,6 +312,8 @@ categories:
           - url: https://github.com/mattiasw/browserloop
           - url: https://github.com/yetidevworks/yetibrowser-mcp
           - url: https://github.com/vincent-pli/chrome-history-mcp
+          - url: https://github.com/onllm-dev/onUI
+            description: Browser extension and MCP server for annotation-first UI pair programming with AI agents
       - name: Cloud Services
         repos:
           - url: https://github.com/browserbase/mcp-server-browserbase
